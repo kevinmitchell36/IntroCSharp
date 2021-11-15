@@ -1,0 +1,12 @@
+/Users/kevin/Projects/IntroCSharp/ElizaIsSilly/bin/Debug/netcoreapp3.1/ElizaIsSilly.deps.json
+/Users/kevin/Projects/IntroCSharp/ElizaIsSilly/bin/Debug/netcoreapp3.1/ElizaIsSilly.runtimeconfig.json
+/Users/kevin/Projects/IntroCSharp/ElizaIsSilly/bin/Debug/netcoreapp3.1/ElizaIsSilly.runtimeconfig.dev.json
+/Users/kevin/Projects/IntroCSharp/ElizaIsSilly/bin/Debug/netcoreapp3.1/ElizaIsSilly.dll
+/Users/kevin/Projects/IntroCSharp/ElizaIsSilly/bin/Debug/netcoreapp3.1/ElizaIsSilly.pdb
+/Users/kevin/Projects/IntroCSharp/ElizaIsSilly/obj/Debug/netcoreapp3.1/ElizaIsSilly.csproj.AssemblyReference.cache
+/Users/kevin/Projects/IntroCSharp/ElizaIsSilly/obj/Debug/netcoreapp3.1/ElizaIsSilly.AssemblyInfoInputs.cache
+/Users/kevin/Projects/IntroCSharp/ElizaIsSilly/obj/Debug/netcoreapp3.1/ElizaIsSilly.AssemblyInfo.cs
+/Users/kevin/Projects/IntroCSharp/ElizaIsSilly/obj/Debug/netcoreapp3.1/ElizaIsSilly.csproj.CoreCompileInputs.cache
+/Users/kevin/Projects/IntroCSharp/ElizaIsSilly/obj/Debug/netcoreapp3.1/ElizaIsSilly.dll
+/Users/kevin/Projects/IntroCSharp/ElizaIsSilly/obj/Debug/netcoreapp3.1/ElizaIsSilly.pdb
+/Users/kevin/Projects/IntroCSharp/ElizaIsSilly/obj/Debug/netcoreapp3.1/ElizaIsSilly.genruntimeconfig.cache
