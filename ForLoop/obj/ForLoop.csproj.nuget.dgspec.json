@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kevin/Projects/IntroCSharp/ElizaIsSilly/ElizaIsSilly.csproj": {}
+    "/Users/kevin/Projects/IntroCSharp/ForLoop/ForLoop.csproj": {}
   },
   "projects": {
-    "/Users/kevin/Projects/IntroCSharp/ElizaIsSilly/ElizaIsSilly.csproj": {
+    "/Users/kevin/Projects/IntroCSharp/ForLoop/ForLoop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kevin/Projects/IntroCSharp/ElizaIsSilly/ElizaIsSilly.csproj",
-        "projectName": "ElizaIsSilly",
-        "projectPath": "/Users/kevin/Projects/IntroCSharp/ElizaIsSilly/ElizaIsSilly.csproj",
+        "projectUniqueName": "/Users/kevin/Projects/IntroCSharp/ForLoop/ForLoop.csproj",
+        "projectName": "ForLoop",
+        "projectPath": "/Users/kevin/Projects/IntroCSharp/ForLoop/ForLoop.csproj",
         "packagesPath": "/Users/kevin/.nuget/packages/",
-        "outputPath": "/Users/kevin/Projects/IntroCSharp/ElizaIsSilly/obj/",
+        "outputPath": "/Users/kevin/Projects/IntroCSharp/ForLoop/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kevin/.config/NuGet/NuGet.Config"

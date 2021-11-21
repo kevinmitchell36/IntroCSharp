@@ -1,0 +1,13 @@
+/Users/kevin/Projects/IntroCSharp/SimpleMenu/bin/Debug/netcoreapp3.1/SimpleMenu.deps.json
+/Users/kevin/Projects/IntroCSharp/SimpleMenu/bin/Debug/netcoreapp3.1/SimpleMenu.runtimeconfig.json
+/Users/kevin/Projects/IntroCSharp/SimpleMenu/bin/Debug/netcoreapp3.1/SimpleMenu.runtimeconfig.dev.json
+/Users/kevin/Projects/IntroCSharp/SimpleMenu/bin/Debug/netcoreapp3.1/SimpleMenu.dll
+/Users/kevin/Projects/IntroCSharp/SimpleMenu/bin/Debug/netcoreapp3.1/SimpleMenu.pdb
+/Users/kevin/Projects/IntroCSharp/SimpleMenu/obj/Debug/netcoreapp3.1/SimpleMenu.csproj.AssemblyReference.cache
+/Users/kevin/Projects/IntroCSharp/SimpleMenu/obj/Debug/netcoreapp3.1/SimpleMenu.AssemblyInfoInputs.cache
+/Users/kevin/Projects/IntroCSharp/SimpleMenu/obj/Debug/netcoreapp3.1/SimpleMenu.AssemblyInfo.cs
+/Users/kevin/Projects/IntroCSharp/SimpleMenu/obj/Debug/netcoreapp3.1/SimpleMenu.csproj.CoreCompileInputs.cache
+/Users/kevin/Projects/IntroCSharp/SimpleMenu/obj/Debug/netcoreapp3.1/SimpleMenu.dll
+/Users/kevin/Projects/IntroCSharp/SimpleMenu/obj/Debug/netcoreapp3.1/SimpleMenu.pdb
+/Users/kevin/Projects/IntroCSharp/SimpleMenu/obj/Debug/netcoreapp3.1/SimpleMenu.genruntimeconfig.cache
+/Users/kevin/Projects/IntroCSharp/SimpleMenu/obj/Debug/netcoreapp3.1/SimpleMenu.GeneratedMSBuildEditorConfig.editorconfig

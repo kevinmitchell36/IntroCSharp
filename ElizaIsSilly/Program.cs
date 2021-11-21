@@ -12,7 +12,7 @@ namespace ElizaIsSilly
             while (!userInput.Equals("quit", StringComparison.OrdinalIgnoreCase))
             {
                 userInput = Console.ReadLine();
-                string response = Doctor.response(userInput);
+                string response = Doctor.Response(userInput);
                 Console.WriteLine(response);
             }
         }

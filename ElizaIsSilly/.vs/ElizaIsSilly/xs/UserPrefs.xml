@@ -1,6 +1,6 @@
 ﻿<Properties StartupConfiguration="{80947C8C-975C-42C6-82F5-B4E8BEAAD185}|Default">
   <MonoDevelop.Ide.ItemProperties.ElizaIsSilly PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Doctor.cs">
     <Files>
       <File FileName="Program.cs" Line="21" Column="1" />
       <File FileName="Doctor.cs" Line="1" Column="1" />
@@ -10,7 +10,7 @@
         <State name="__root__">
           <Node name="ElizaIsSilly" expanded="True">
             <Node name="ElizaIsSilly" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Doctor.cs" selected="True" />
             </Node>
           </Node>
         </State>

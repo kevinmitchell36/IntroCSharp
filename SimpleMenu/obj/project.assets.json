@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kevin/Projects/IntroCSharp/ElizaIsSilly/ElizaIsSilly.csproj",
-      "projectName": "ElizaIsSilly",
-      "projectPath": "/Users/kevin/Projects/IntroCSharp/ElizaIsSilly/ElizaIsSilly.csproj",
+      "projectUniqueName": "/Users/kevin/Projects/IntroCSharp/SimpleMenu/SimpleMenu.csproj",
+      "projectName": "SimpleMenu",
+      "projectPath": "/Users/kevin/Projects/IntroCSharp/SimpleMenu/SimpleMenu.csproj",
       "packagesPath": "/Users/kevin/.nuget/packages/",
-      "outputPath": "/Users/kevin/Projects/IntroCSharp/ElizaIsSilly/obj/",
+      "outputPath": "/Users/kevin/Projects/IntroCSharp/SimpleMenu/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kevin/.config/NuGet/NuGet.Config"
