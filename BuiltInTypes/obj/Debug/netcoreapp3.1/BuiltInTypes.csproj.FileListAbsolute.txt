@@ -1,0 +1,13 @@
+/Users/kevin/Projects/IntroCSharp/BuiltInTypes/bin/Debug/netcoreapp3.1/BuiltInTypes.deps.json
+/Users/kevin/Projects/IntroCSharp/BuiltInTypes/bin/Debug/netcoreapp3.1/BuiltInTypes.runtimeconfig.json
+/Users/kevin/Projects/IntroCSharp/BuiltInTypes/bin/Debug/netcoreapp3.1/BuiltInTypes.runtimeconfig.dev.json
+/Users/kevin/Projects/IntroCSharp/BuiltInTypes/bin/Debug/netcoreapp3.1/BuiltInTypes.dll
+/Users/kevin/Projects/IntroCSharp/BuiltInTypes/bin/Debug/netcoreapp3.1/BuiltInTypes.pdb
+/Users/kevin/Projects/IntroCSharp/BuiltInTypes/obj/Debug/netcoreapp3.1/BuiltInTypes.csproj.AssemblyReference.cache
+/Users/kevin/Projects/IntroCSharp/BuiltInTypes/obj/Debug/netcoreapp3.1/BuiltInTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevin/Projects/IntroCSharp/BuiltInTypes/obj/Debug/netcoreapp3.1/BuiltInTypes.AssemblyInfoInputs.cache
+/Users/kevin/Projects/IntroCSharp/BuiltInTypes/obj/Debug/netcoreapp3.1/BuiltInTypes.AssemblyInfo.cs
+/Users/kevin/Projects/IntroCSharp/BuiltInTypes/obj/Debug/netcoreapp3.1/BuiltInTypes.csproj.CoreCompileInputs.cache
+/Users/kevin/Projects/IntroCSharp/BuiltInTypes/obj/Debug/netcoreapp3.1/BuiltInTypes.dll
+/Users/kevin/Projects/IntroCSharp/BuiltInTypes/obj/Debug/netcoreapp3.1/BuiltInTypes.pdb
+/Users/kevin/Projects/IntroCSharp/BuiltInTypes/obj/Debug/netcoreapp3.1/BuiltInTypes.genruntimeconfig.cache

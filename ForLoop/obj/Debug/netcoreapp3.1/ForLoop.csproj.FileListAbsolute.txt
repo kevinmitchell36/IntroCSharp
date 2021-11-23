@@ -10,3 +10,4 @@
 /Users/kevin/Projects/IntroCSharp/ForLoop/obj/Debug/netcoreapp3.1/ForLoop.dll
 /Users/kevin/Projects/IntroCSharp/ForLoop/obj/Debug/netcoreapp3.1/ForLoop.pdb
 /Users/kevin/Projects/IntroCSharp/ForLoop/obj/Debug/netcoreapp3.1/ForLoop.genruntimeconfig.cache
+/Users/kevin/Projects/IntroCSharp/ForLoop/obj/Debug/netcoreapp3.1/ForLoop.GeneratedMSBuildEditorConfig.editorconfig
