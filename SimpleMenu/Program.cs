@@ -48,8 +48,12 @@ namespace SimpleMenu
                     case 'q':
                         Console.WriteLine("Quiting program");
                         break;
-
+                    default:
+                        Console.WriteLine("Returning coins");
+                        continue; // When triggered, this will skip over the lines 55 and 56 then read line 57.
                 }
+                Console.WriteLine("Dispensing coffee");
+                Console.WriteLine("Have a nice day");
             } while (!userChoice.Equals('q'));
         }
     }
