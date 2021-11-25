@@ -1,0 +1,13 @@
+/Users/kevin/Projects/IntroCSharp/ClassesIntro/bin/Debug/netcoreapp3.1/ClassesIntro.deps.json
+/Users/kevin/Projects/IntroCSharp/ClassesIntro/bin/Debug/netcoreapp3.1/ClassesIntro.runtimeconfig.json
+/Users/kevin/Projects/IntroCSharp/ClassesIntro/bin/Debug/netcoreapp3.1/ClassesIntro.runtimeconfig.dev.json
+/Users/kevin/Projects/IntroCSharp/ClassesIntro/bin/Debug/netcoreapp3.1/ClassesIntro.dll
+/Users/kevin/Projects/IntroCSharp/ClassesIntro/bin/Debug/netcoreapp3.1/ClassesIntro.pdb
+/Users/kevin/Projects/IntroCSharp/ClassesIntro/obj/Debug/netcoreapp3.1/ClassesIntro.csproj.AssemblyReference.cache
+/Users/kevin/Projects/IntroCSharp/ClassesIntro/obj/Debug/netcoreapp3.1/ClassesIntro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevin/Projects/IntroCSharp/ClassesIntro/obj/Debug/netcoreapp3.1/ClassesIntro.AssemblyInfoInputs.cache
+/Users/kevin/Projects/IntroCSharp/ClassesIntro/obj/Debug/netcoreapp3.1/ClassesIntro.AssemblyInfo.cs
+/Users/kevin/Projects/IntroCSharp/ClassesIntro/obj/Debug/netcoreapp3.1/ClassesIntro.csproj.CoreCompileInputs.cache
+/Users/kevin/Projects/IntroCSharp/ClassesIntro/obj/Debug/netcoreapp3.1/ClassesIntro.dll
+/Users/kevin/Projects/IntroCSharp/ClassesIntro/obj/Debug/netcoreapp3.1/ClassesIntro.pdb
+/Users/kevin/Projects/IntroCSharp/ClassesIntro/obj/Debug/netcoreapp3.1/ClassesIntro.genruntimeconfig.cache

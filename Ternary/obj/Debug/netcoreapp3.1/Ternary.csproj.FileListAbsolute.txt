@@ -1,0 +1,13 @@
+/Users/kevin/Projects/IntroCSharp/Ternary/bin/Debug/netcoreapp3.1/Ternary.deps.json
+/Users/kevin/Projects/IntroCSharp/Ternary/bin/Debug/netcoreapp3.1/Ternary.runtimeconfig.json
+/Users/kevin/Projects/IntroCSharp/Ternary/bin/Debug/netcoreapp3.1/Ternary.runtimeconfig.dev.json
+/Users/kevin/Projects/IntroCSharp/Ternary/bin/Debug/netcoreapp3.1/Ternary.dll
+/Users/kevin/Projects/IntroCSharp/Ternary/bin/Debug/netcoreapp3.1/Ternary.pdb
+/Users/kevin/Projects/IntroCSharp/Ternary/obj/Debug/netcoreapp3.1/Ternary.csproj.AssemblyReference.cache
+/Users/kevin/Projects/IntroCSharp/Ternary/obj/Debug/netcoreapp3.1/Ternary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevin/Projects/IntroCSharp/Ternary/obj/Debug/netcoreapp3.1/Ternary.AssemblyInfoInputs.cache
+/Users/kevin/Projects/IntroCSharp/Ternary/obj/Debug/netcoreapp3.1/Ternary.AssemblyInfo.cs
+/Users/kevin/Projects/IntroCSharp/Ternary/obj/Debug/netcoreapp3.1/Ternary.csproj.CoreCompileInputs.cache
+/Users/kevin/Projects/IntroCSharp/Ternary/obj/Debug/netcoreapp3.1/Ternary.dll
+/Users/kevin/Projects/IntroCSharp/Ternary/obj/Debug/netcoreapp3.1/Ternary.pdb
+/Users/kevin/Projects/IntroCSharp/Ternary/obj/Debug/netcoreapp3.1/Ternary.genruntimeconfig.cache
