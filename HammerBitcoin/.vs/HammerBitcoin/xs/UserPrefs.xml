@@ -1,20 +1,9 @@
 ﻿<Properties StartupConfiguration="{A968CD00-D106-40D1-863E-E65A16F89205}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BitcoinMiner.cs">
     <Files>
       <File FileName="Program.cs" Line="20" Column="1" />
-      <File FileName="BitcoinMiner.cs" Line="434" Column="1" />
+      <File FileName="BitcoinMiner.cs" Line="138" Column="64" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="HammerBitcoin" expanded="True">
-            <Node name="HammerBitcoin" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
