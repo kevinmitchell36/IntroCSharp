@@ -60,15 +60,18 @@ namespace HammerBitcoin
             {
                 computerPrice = UpdateComputerPrice();
                 PrintSummary();
-                BuyComputers();
-                SellComputers();
-                PayEmployees();
-                MaintainComputers();
+                int computersToBuy = BuyComputers(computerPrice, computers, ref cash);
+                computers += computersToBuy;
+                int computersToSell = SellComputers(computerPrice, computers, ref cash);
+                computers -= computersToSell;  // Here the field computers is changed at the call site versus the in the method.
+                cashPaidToEmployees = PayEmployees(cash);
+                cash -= cashPaidToEmployees;
+                computersMaintained =  MaintainComputers(computers, employees, ref cash);
 
-                marketCrashVictims = CheckForCrash();
+                marketCrashVictims = CheckForCrash(employees);
                 employees = employees - marketCrashVictims;
 
-                if (CountStarvedEmployees() >= 45)
+                if (CountStarvedEmployees(cashPaidToEmployees, ref employees, ref starved) >= 45)
                 {
                     stillInOffice = false;
                 }
@@ -119,7 +122,7 @@ namespace HammerBitcoin
         * 
         * If a valid amount is entered, the available cash is reduced accordingly.
         */
-        private void BuyComputers()
+        private int BuyComputers(int computerPrice, int numberOfComputers, ref int cash)
         {
             int computersToBuy;
             string question = "How many computers will you buy? ";
@@ -133,9 +136,10 @@ namespace HammerBitcoin
                 cost = computerPrice * computersToBuy;
             }
             cash = cash - cost;
-            computers = computers + computersToBuy;
-            Console.WriteLine($"{OGH}, you now have {computers} computers");
+            numberOfComputers = numberOfComputers + computersToBuy;
+            Console.WriteLine($"{OGH}, you now have {numberOfComputers + computersToBuy} computers");
             Console.WriteLine($"and {cash} bitcoins of cash.");
+            return computersToBuy;
         }
 
         /**
@@ -154,20 +158,20 @@ namespace HammerBitcoin
         * 
         * Available cash will be increased by the value of the computers sold.
         */
-        private void SellComputers()
+        private int SellComputers(int computerPrice, int numberOfComputers, ref int cash)
         {
             string question = "How many computers will you sell? ";
             int computersToSell = GetNumber(question);
 
-            while (computersToSell > computers)
+            while (computersToSell > numberOfComputers)
             {
-                Jest($"The corporation has only {computers} computers!");
+                Jest($"The corporation has only {numberOfComputers} computers!");
                 computersToSell = GetNumber(question);
             }
             cash = cash + computerPrice * computersToSell;
-            computers = computers - computersToSell;
-            Console.WriteLine($"{OGH}, you now have {computers} computers");
+            Console.WriteLine($"{OGH}, you now have {numberOfComputers - computersToSell} computers");
             Console.WriteLine($"and {cash} bitcoins of cash.");
+            return computersToSell;
         }
 
         /**
@@ -175,28 +179,29 @@ namespace HammerBitcoin
         * 
         * If a valid amount is entered, the available cash is reduced accordingly.
         */
-        private void PayEmployees()
+        private int PayEmployees(int cash)
         {
             string question = "How much bitcoin will you distribute to the employees? ";
-            cashPaidToEmployees = GetNumber(question);
+            int cashPaid = GetNumber(question);
 
-            while (cashPaidToEmployees > cash)
+            while (cashPaid > cash)
             {
                 Jest($"We have but {cash} bitcoins!");
-                cashPaidToEmployees = GetNumber(question);
+                cashPaid = GetNumber(question);
             }
-            cash = cash - cashPaidToEmployees;
-            Console.WriteLine($"{OGH}, {cash} bitcoins remain.");
+            Console.WriteLine($"{OGH}, {cash - cashPaid} bitcoins remain.");
+            return cashPaid;
         }
 
         /**
         * Allows the user to choose how much to spend on maintenance.
         */
-        private void MaintainComputers()
+        private int MaintainComputers(int computers, int employees, ref int cash)
         {
             string question = "How many bitcoins will you allocate for maintenance? ";
             int maintenanceAmount = 0;
             bool haveGoodAnswer = false;
+            int quantityMaintained;
 
             while (!haveGoodAnswer)
             {
@@ -218,10 +223,11 @@ namespace HammerBitcoin
                     haveGoodAnswer = true;
                 }
             }
-            computersMaintained = maintenanceAmount / 2;
+            quantityMaintained = maintenanceAmount / 2;
             // Be nice to the player!  If they enter an odd number, give them the extra bitcoin back.
-            cash = cash - computersMaintained * 2;  // can re-write as cash -= computersMaintained * 2;
+            cash -= quantityMaintained * 2;  // can re-write as cash -= computersMaintained * 2;
             Console.WriteLine($"{OGH}, we now have {cash} bitcoins in storage.");
+            return quantityMaintained;
         }
 
         /**
@@ -229,7 +235,7 @@ namespace HammerBitcoin
         *
         * @return The number of victims of the crash.
         */
-        private int CheckForCrash()
+        private int CheckForCrash(int employees)
         {
             int victims;
             if (rand.NextDouble() < 0.15)
@@ -249,7 +255,7 @@ namespace HammerBitcoin
         * 
         * @return  The percent of employees who starved.
         */
-        private int CountStarvedEmployees()
+        private int CountStarvedEmployees(int cashPaidToEmployees, ref int employees, ref int starved)
         {  // TODO: Has side effects
             int employeesPaid = cashPaidToEmployees / 20;
             int percentStarved = 0;

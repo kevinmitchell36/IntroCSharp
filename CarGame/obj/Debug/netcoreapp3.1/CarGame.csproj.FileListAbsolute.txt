@@ -1,0 +1,13 @@
+/Users/kevin/Projects/IntroCSharp/CarGame/bin/Debug/netcoreapp3.1/CarGame.deps.json
+/Users/kevin/Projects/IntroCSharp/CarGame/bin/Debug/netcoreapp3.1/CarGame.runtimeconfig.json
+/Users/kevin/Projects/IntroCSharp/CarGame/bin/Debug/netcoreapp3.1/CarGame.runtimeconfig.dev.json
+/Users/kevin/Projects/IntroCSharp/CarGame/bin/Debug/netcoreapp3.1/CarGame.dll
+/Users/kevin/Projects/IntroCSharp/CarGame/bin/Debug/netcoreapp3.1/CarGame.pdb
+/Users/kevin/Projects/IntroCSharp/CarGame/obj/Debug/netcoreapp3.1/CarGame.csproj.AssemblyReference.cache
+/Users/kevin/Projects/IntroCSharp/CarGame/obj/Debug/netcoreapp3.1/CarGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevin/Projects/IntroCSharp/CarGame/obj/Debug/netcoreapp3.1/CarGame.AssemblyInfoInputs.cache
+/Users/kevin/Projects/IntroCSharp/CarGame/obj/Debug/netcoreapp3.1/CarGame.AssemblyInfo.cs
+/Users/kevin/Projects/IntroCSharp/CarGame/obj/Debug/netcoreapp3.1/CarGame.csproj.CoreCompileInputs.cache
+/Users/kevin/Projects/IntroCSharp/CarGame/obj/Debug/netcoreapp3.1/CarGame.dll
+/Users/kevin/Projects/IntroCSharp/CarGame/obj/Debug/netcoreapp3.1/CarGame.pdb
+/Users/kevin/Projects/IntroCSharp/CarGame/obj/Debug/netcoreapp3.1/CarGame.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/Users/kevin/Projects/IntroCSharp/Operators/bin/Debug/netcoreapp3.1/Operators.deps.json
+/Users/kevin/Projects/IntroCSharp/Operators/bin/Debug/netcoreapp3.1/Operators.runtimeconfig.json
+/Users/kevin/Projects/IntroCSharp/Operators/bin/Debug/netcoreapp3.1/Operators.runtimeconfig.dev.json
+/Users/kevin/Projects/IntroCSharp/Operators/bin/Debug/netcoreapp3.1/Operators.dll
+/Users/kevin/Projects/IntroCSharp/Operators/bin/Debug/netcoreapp3.1/Operators.pdb
+/Users/kevin/Projects/IntroCSharp/Operators/obj/Debug/netcoreapp3.1/Operators.csproj.AssemblyReference.cache
+/Users/kevin/Projects/IntroCSharp/Operators/obj/Debug/netcoreapp3.1/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevin/Projects/IntroCSharp/Operators/obj/Debug/netcoreapp3.1/Operators.AssemblyInfoInputs.cache
+/Users/kevin/Projects/IntroCSharp/Operators/obj/Debug/netcoreapp3.1/Operators.AssemblyInfo.cs
+/Users/kevin/Projects/IntroCSharp/Operators/obj/Debug/netcoreapp3.1/Operators.csproj.CoreCompileInputs.cache
+/Users/kevin/Projects/IntroCSharp/Operators/obj/Debug/netcoreapp3.1/Operators.dll
+/Users/kevin/Projects/IntroCSharp/Operators/obj/Debug/netcoreapp3.1/Operators.pdb
+/Users/kevin/Projects/IntroCSharp/Operators/obj/Debug/netcoreapp3.1/Operators.genruntimeconfig.cache
