@@ -10,7 +10,7 @@ namespace Operators
             bool y = true;
             bool z = true;
 
-            bool a = x && (y || z);
+            bool a = x && y || z;
             Console.WriteLine(a);
 
             int number = 5;

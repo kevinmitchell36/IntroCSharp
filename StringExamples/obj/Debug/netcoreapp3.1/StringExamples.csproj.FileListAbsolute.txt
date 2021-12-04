@@ -1,0 +1,13 @@
+/Users/kevin/Projects/IntroCSharp/StringExamples/bin/Debug/netcoreapp3.1/StringExamples.deps.json
+/Users/kevin/Projects/IntroCSharp/StringExamples/bin/Debug/netcoreapp3.1/StringExamples.runtimeconfig.json
+/Users/kevin/Projects/IntroCSharp/StringExamples/bin/Debug/netcoreapp3.1/StringExamples.runtimeconfig.dev.json
+/Users/kevin/Projects/IntroCSharp/StringExamples/bin/Debug/netcoreapp3.1/StringExamples.dll
+/Users/kevin/Projects/IntroCSharp/StringExamples/bin/Debug/netcoreapp3.1/StringExamples.pdb
+/Users/kevin/Projects/IntroCSharp/StringExamples/obj/Debug/netcoreapp3.1/StringExamples.csproj.AssemblyReference.cache
+/Users/kevin/Projects/IntroCSharp/StringExamples/obj/Debug/netcoreapp3.1/StringExamples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevin/Projects/IntroCSharp/StringExamples/obj/Debug/netcoreapp3.1/StringExamples.AssemblyInfoInputs.cache
+/Users/kevin/Projects/IntroCSharp/StringExamples/obj/Debug/netcoreapp3.1/StringExamples.AssemblyInfo.cs
+/Users/kevin/Projects/IntroCSharp/StringExamples/obj/Debug/netcoreapp3.1/StringExamples.csproj.CoreCompileInputs.cache
+/Users/kevin/Projects/IntroCSharp/StringExamples/obj/Debug/netcoreapp3.1/StringExamples.dll
+/Users/kevin/Projects/IntroCSharp/StringExamples/obj/Debug/netcoreapp3.1/StringExamples.pdb
+/Users/kevin/Projects/IntroCSharp/StringExamples/obj/Debug/netcoreapp3.1/StringExamples.genruntimeconfig.cache
