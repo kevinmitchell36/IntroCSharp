@@ -1,0 +1,13 @@
+/Users/kevin/Projects/IntroCSharp/StringEquality/bin/Debug/netcoreapp3.1/StringEquality.deps.json
+/Users/kevin/Projects/IntroCSharp/StringEquality/bin/Debug/netcoreapp3.1/StringEquality.runtimeconfig.json
+/Users/kevin/Projects/IntroCSharp/StringEquality/bin/Debug/netcoreapp3.1/StringEquality.runtimeconfig.dev.json
+/Users/kevin/Projects/IntroCSharp/StringEquality/bin/Debug/netcoreapp3.1/StringEquality.dll
+/Users/kevin/Projects/IntroCSharp/StringEquality/bin/Debug/netcoreapp3.1/StringEquality.pdb
+/Users/kevin/Projects/IntroCSharp/StringEquality/obj/Debug/netcoreapp3.1/StringEquality.csproj.AssemblyReference.cache
+/Users/kevin/Projects/IntroCSharp/StringEquality/obj/Debug/netcoreapp3.1/StringEquality.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevin/Projects/IntroCSharp/StringEquality/obj/Debug/netcoreapp3.1/StringEquality.AssemblyInfoInputs.cache
+/Users/kevin/Projects/IntroCSharp/StringEquality/obj/Debug/netcoreapp3.1/StringEquality.AssemblyInfo.cs
+/Users/kevin/Projects/IntroCSharp/StringEquality/obj/Debug/netcoreapp3.1/StringEquality.csproj.CoreCompileInputs.cache
+/Users/kevin/Projects/IntroCSharp/StringEquality/obj/Debug/netcoreapp3.1/StringEquality.dll
+/Users/kevin/Projects/IntroCSharp/StringEquality/obj/Debug/netcoreapp3.1/StringEquality.pdb
+/Users/kevin/Projects/IntroCSharp/StringEquality/obj/Debug/netcoreapp3.1/StringEquality.genruntimeconfig.cache

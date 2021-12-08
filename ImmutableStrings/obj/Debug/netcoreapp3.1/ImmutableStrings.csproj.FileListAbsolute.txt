@@ -1,0 +1,13 @@
+/Users/kevin/Projects/IntroCSharp/ImmutableStrings/bin/Debug/netcoreapp3.1/ImmutableStrings.deps.json
+/Users/kevin/Projects/IntroCSharp/ImmutableStrings/bin/Debug/netcoreapp3.1/ImmutableStrings.runtimeconfig.json
+/Users/kevin/Projects/IntroCSharp/ImmutableStrings/bin/Debug/netcoreapp3.1/ImmutableStrings.runtimeconfig.dev.json
+/Users/kevin/Projects/IntroCSharp/ImmutableStrings/bin/Debug/netcoreapp3.1/ImmutableStrings.dll
+/Users/kevin/Projects/IntroCSharp/ImmutableStrings/bin/Debug/netcoreapp3.1/ImmutableStrings.pdb
+/Users/kevin/Projects/IntroCSharp/ImmutableStrings/obj/Debug/netcoreapp3.1/ImmutableStrings.csproj.AssemblyReference.cache
+/Users/kevin/Projects/IntroCSharp/ImmutableStrings/obj/Debug/netcoreapp3.1/ImmutableStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevin/Projects/IntroCSharp/ImmutableStrings/obj/Debug/netcoreapp3.1/ImmutableStrings.AssemblyInfoInputs.cache
+/Users/kevin/Projects/IntroCSharp/ImmutableStrings/obj/Debug/netcoreapp3.1/ImmutableStrings.AssemblyInfo.cs
+/Users/kevin/Projects/IntroCSharp/ImmutableStrings/obj/Debug/netcoreapp3.1/ImmutableStrings.csproj.CoreCompileInputs.cache
+/Users/kevin/Projects/IntroCSharp/ImmutableStrings/obj/Debug/netcoreapp3.1/ImmutableStrings.dll
+/Users/kevin/Projects/IntroCSharp/ImmutableStrings/obj/Debug/netcoreapp3.1/ImmutableStrings.pdb
+/Users/kevin/Projects/IntroCSharp/ImmutableStrings/obj/Debug/netcoreapp3.1/ImmutableStrings.genruntimeconfig.cache

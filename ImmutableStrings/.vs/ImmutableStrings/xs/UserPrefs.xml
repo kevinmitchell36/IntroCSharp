@@ -1,10 +1,10 @@
-﻿<Properties StartupConfiguration="{12C74A56-271E-40BB-9EA6-896AB48C2F44}|Default">
-  <MonoDevelop.Ide.ItemProperties.StringExamples PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{F9BC0D28-2B3F-4F9C-AE5B-D0C6D5E122C7}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="36" Column="13" />
+      <File FileName="Program.cs" Line="9" Column="22" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ImmutableStrings FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

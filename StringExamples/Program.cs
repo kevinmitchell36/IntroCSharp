@@ -25,6 +25,15 @@ namespace StringExamples
                 char character = courseName[i];
                 Console.WriteLine(character);
             }
+
+
+            // Case insensitive comparison
+            int position;
+
+            position = courseName.IndexOf(" c", StringComparison.OrdinalIgnoreCase);
+            Console.WriteLine(position);
+
+            
             
         }
     }
